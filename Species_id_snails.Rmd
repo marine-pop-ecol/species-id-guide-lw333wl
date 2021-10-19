@@ -7,33 +7,41 @@ output:
         includes:
             in_header: file.tex
 ---
-# *Nucella ostrina* (Northern Striped Dogwinkle)
+
+\newpage
+
+# *Calliostoma ligatum* (Blue top snail)
 
 ## Description
 
-This whelk is distinguished by its alternating lines of thick and thin bands on its shell. Additionally, it can be identified by the three indistinct whorls on its shell. Colors can range from dark browns, blacks, and browns to light greys and oranges always with a purple interior (Meschkat et al., 2014). This snail typically lives in the mid to high intertidal zones of exposed rocky shorelines from the Bering Sea to Southern California. The end of its shell known as the umbilicus is closed. It is most commonly found along barnacle and mussel beds as this is their preferred diet. This species feeds by drilling a hole with its radula mouthpart into its prey and extracting digestive enzymes which are then extracted by its long proboscis (*E-Fauna BC Atlas Page*, 2021).  *N. ostrina* is commonly mistaken for the northern channeled dog winkle (*Nucella canaliculata*) as well as the proposed northern lined dog winkle (*Nucella analoga*). Both of these species can be distinguished from *N.ostrina* because of their slender distinctive whorls and smaller body sizes. To reproduce, females deposit leathery embryonic capsules attached by stalks to the rock from which the eggs develop and hatch as juveniles after about 2.5-4 months (Lloyd & Gosselin, 2007). Therefore, there is no larval feeding stage and maternal care is critical to the survival of the offspring. Each capsule will produce about 20 juveniles.
+*Calliostoma ligatum*'s shells are cone-shaped with three distinct convex whorls, and are generally 2.5 to 3 cm in diameter and 1.7 to 3 cm tall (Tuskes 2019; Crowles 2004; Meschkat et al., 2013). ). The colour of their unbeaded spiral ridges generally alternates between light golden or tan and chocolate brown, although spirals can be white, grey, black or red. If the shell is worn or damaged a distinctive blue inner layer is visible, which can also be seen in the inner edge of empty shells. The shell has a closed umbilicus, and its opening is rounded with a pearly interior. The snail’s foot has a distinctive bright orange sole. 
 
-## Questions
+*Calliostoma ligatum* is present from central Alaska to southern California (Metschkat et al., 2013; Harbo 2011). It can be found intertidally but also at depths of up to 30 meters in eel grass and kelp beds, and rocky areas. Blue top snails are omnivorous, and although they mainly consume *Macrocystis* and other brown algae they also eat diatoms, ascidians, sponges, bryozoans, and detritus (Crowles 2004; Meschkat et al., 2013). Their main predators are sea stars and sunflower stars, but, interestingly, they do not demonstrate antipredator behaviour towards predatory snails (Hoffman, 1980). As broadcast spawners, male *Calliostoma ligatum* release sperm into the water column, while eggs are released by females sheathed in mucous strands that await fertilization (Holyvoak 1988). After fertilization, they undergo several changes over 12 days to become planktonic larvae, veligers, and then juvenile snails. They reach sexual maturity after 1 year. Blue top snails may be confused for Purple-ringed top snails (*Calliostoma annulatum*), but the beaded spirals on Purple-ringed top snails are easily differentiated from the smooth spirals of Blue top snails. Other snails in the area either do not have a similar top-like shell morphology, or lack the distinguishable spirals and orange foot of the top snails. 
 
-1) Does this snail have a banding pattern that alternates between thick and thin stripes?
 
-2) Does this snail have three indistinct whorls?
+## Identification Questions
 
-3) Is the inside of the shell purple? 
+1) Is the shell of the snail top shaped (not cone shaped) with three convex whorls? 
 
-\newpage
+2) Does the snail have a bright orange foot? 
+
+3) Are the spiral ridges on the snail's shell smoothed (not beaded)? 
+
+
+\newpage 
 
 ## Figures
 
-```{r speicies-id-guide-snail, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 1. Showing *Nucella ostrina* distinctive features such as closed umbilicus, indistinct whorls, purple interior shell and operculum. ", fig.cap.align = 'left', echo=FALSE}
-knitr::include_graphics(here::here("images", "Northern-Dogwinkle-Drawing.JPG"))
+```{r Calliostoma_drawing, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Calliostoma ligatum positioned in ventral (A) lateral (B) views with important identifying characteristics labelled.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "Calliostoma_drawing.jpg"))
 ```
 
-```{r speicies-id-guide-snails, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 2. Showing *Nucella ostrina* collected from Scotts Bay of Bamfield, BC, Canada in October of 2021.", fig.cap.align = 'left', echo=FALSE}
-knitr::include_graphics(here::here("images", "Northern Striped Dogwinkle Picture.jpg"))
+```{r Calliostoma_size, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "Calliostoma ligatum shells (containing Hermit crabs) collected at Scott's Bay.", echo=FALSE}
+knitr::include_graphics(here::here("images", "Calliostoma_size.png"))
 ```
-\newpage
 
+
+\newpage 
 # *Nucella lamellosa* (Frilled/Wrinkled Dogwinkle)
 
 ## Description
@@ -48,3 +56,157 @@ knitr::include_graphics(here::here("images", "Northern Striped Dogwinkle Picture
 2) Does it have an oval aperture that is around half the length of the shell?
 
 3) Is the lip thick, rounded, and smooth, with white or the shell’s outer color showing through?
+
+\newpage
+
+## Figures
+
+```{r Nucella_lamellosa, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "A drawn diagram of *Nucella lamellosa* (L.Wall). These drawings show the morphological variety in shell colours, textures, and banding. 1) shows underside of the snail, highlighting the oval aperture. 2) shows an upright view of the snail, showing frills, five distinct whorls, and brown colouring. 3) shows a banding colour pattern and less frilly surface.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "nucella_lamellosa.jpg"))
+```
+
+```{r SnailonRock, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Photos showing two varieties of *N. lamellosa* snails collected from Scotts Bay in Bamfield, BC on October 15th 2021 (L.Wall). This highlights the variation in snail color and size, with smooth shell morphology suggesting plastic suitability to their wave-exposed habitat. ", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "snailonrock.jpg"))
+```
+
+\newpage
+
+# *Tegula funebralis* (Black Tegula/Black Turban Snail)
+
+## Description
+
+The *Tegula funebralis* has a thick and strong cone-shaped shell with a closed umbilicus (Fretwell & Starzomski, 2013). The rounded shell consists of four whorls, and it can grow up to three centimeters in diameter (Harbo, 2011). When wet, the shell appears non-shiny and black, but when dry can have a more dark purple or grey tone (Fretwell & Starzomski, 2013). The tip of the shell gets worn down over time, revealing a pearly white surface. The white interior contains a black-bodied snail, and the bottom of the foot appears tan. Males have a paler foot than females. Other similar species include the brown turban snail (*Chlorostoma brunnea*), and the dusky turban snail (*Tegula pulligo*). Both of these species have a lighter brown shell than the black turban snail, and C. brunnea is not found north of Oregon state. 
+
+The black turban snail is most commonly found along exposed or semi-protected rocky shorelines (Fretwell & Starzomski, 2013). It ranges along the west coast of North America from northern Vancouver Island down to central mexico. These snails can be found along the entire intertidal, but mainly live in the mid/low zones. Black turban snails live in large groups, usually aggregated under rocks. If shells are found isolated from other individuals, there is most likely a hermit crab or other invertebrate living in its shell. These grazing herbivores will eat almost any common algae  (Hiebert et al., 1979). They are also the prey to many intertidal invertebrates, including carnivorous snails, crabs, or sea stars. Humans are also a major predator of black turban snails, and there is evidence of human collection of these snails as far back as 12,000 years ago (Erlandson et al., 2015). These snails reach sexual maturity at about fourteen millimeters in diameter, and female snails will lay several hundred eggs approximately once per year (Hiebert et al., 1979). Juveniles live under small rocks or in the sand, then as young adults live in the upper intertidal for five to six years before migrating down to the mid/low intertidal. 
+
+## Identification Questions
+
+1) Is the snail surrounded by other similar individuals?
+
+2) Does the snail have four whorls/spirals on its shell?
+
+3) If the snail is wet, does it look black?
+
+\newpage
+
+## Figures
+
+```{r Black_Turban_Drawing, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "A drawn diagram of *Tegula funebralis*. The left drawing shows the underside of the snail, highlighting the aperture. The right drawing shows an upright view of the snail, including the location of the foot, highlighting the worn tip of the shell.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "Black Turban Drawings.jpg"))
+```
+
+```{r Black_Turban_Differences, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Photos showing three varieties of *Tegula funebralis* snails collected from Scotts Bay in Bamfield, BC on October 15th 2021. This highlights the similarities, such as the variations in tip morphology caused by wear and tear from rough intertidal conditions.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "Black Turban Differences.jpg"))
+```
+
+\newpage
+
+
+# *Nucella ostrina* (Northern Striped Dogwinkle)
+
+## Description
+
+This whelk is distinguished by its alternating lines of thick and thin bands on its shell. Additionally, it can be identified by the three indistinct whorls on its shell. Colors can range from dark browns, blacks, and browns to light greys and oranges always with a purple interior (Meschkat et al., 2014). This snail typically lives in the mid to high intertidal zones of exposed rocky shorelines from the Bering Sea to Southern California. The end of its shell known as the umbilicus is closed. It is most commonly found along barnacle and mussel beds as this is their preferred diet. This species feeds by drilling a hole with its radula mouthpart into its prey and extracting digestive enzymes which are then extracted by its long proboscis (*E-Fauna BC Atlas Page*, 2021).  *N. ostrina* is commonly mistaken for the northern channeled dog winkle (*Nucella canaliculata*) as well as the proposed northern lined dog winkle (*Nucella analoga*). Both of these species can be distinguished from *N.ostrina* because of their slender distinctive whorls and smaller body sizes. Mating occurs in Winter and Spring months with an annual spawn.To reproduce, females deposit leathery embryonic capsules attached by stalks to the rock from which the eggs develop and hatch as juveniles after about 2.5-4 months (Lloyd & Gosselin, 2007). Therefore, there is no larval feeding stage and maternal care is critical to the survival of the offspring. Each capsule will produce about 20 juveniles.
+
+## Identification Questions
+
+1) Does this snail have a banding pattern that alternates between thick and thin stripes?
+
+2) Does this snail have three indistinct whorls?
+
+3) Is the inside of the shell purple? 
+
+\newpage
+
+## Figures
+
+```{r Dogwinkle_drawing, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Showing *Nucella ostrina* distinctive features such as closed umbilicus, indistinct whorls, purple interior shell and operculum. ", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "Northern-Dogwinkle-Drawing.JPG"))
+```
+
+```{r Dogwinkle_picture, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Showing *Nucella ostrina* collected from Scotts Bay of Bamfield, BC, Canada in October of 2021.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "Northern Striped Dogwinkle Picture.jpg"))
+```
+
+\newpage
+
+# Supplemental Information
+
+```{r, message = FALSE, echo = FALSE}
+library(tidyverse)
+library(here)
+
+snail_table = read_csv(here("./data/snail_size.csv"))
+
+snail_table_clean = snail_table %>%
+  rename("Height (mm)" = height_mm, "Length (mm)" = length_mm) 
+
+knitr::kable(snail_table_clean, caption = "Shell morphometric measurements of four intertidal snails")
+```
+
+## Figures
+
+```{r, echo = FALSE, fig.cap= "Snail shell length and height for four intertidal snails. Snails were collected from Scott's Bay, and measured in lab using calipers", message = FALSE, out.width = "80%", out.height = "80%"}
+
+snail_plot = ggplot(data = snail_table) +
+  geom_point(aes(x = length_mm, y = height_mm, fill = species, shape = species), 
+             size = 3, color = "black") +
+  scale_y_continuous(limits = c(0,20))+
+  scale_x_continuous(limits =c(0,20))+
+  scale_shape_manual(values = c(21,22,23,24))+
+  scale_fill_manual(values = c("blue", "red", "green", "yellow"))+
+  theme_bw() +
+  labs(x = "Shell Length (mm)", y = "Shell Height (mm)")
+
+snail_plot
+```
+
+\newpage
+
+```{r Table, fig.align = 'left', out.width = "100%", out.height = "100%", fig.cap = "Table 2. Summary of characteristics for four intertidal snails.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "Summary table.png"))
+```
+
+
+\newpage
+
+
+# Bibliography
+
+Bering, N., Hext, T., & Parker, E. (2017). Nucella lamellosa. In: Oregon Estuarine Invertebrates: Rudys' Illustrated Guide to Common Species, 3rd ed. University of Oregon Libraries and Oregon Institute of Marine Biology, Charleston, OR. https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/12913/N_lamellosa_2017_final.pdf?sequence=3
+
+Carefoot, T. (2021) Nucella lamellosa (Gmelin, 1791) Dog Whelk; Frilled Dogwinkle; Wrinkled Dog Wheld. E- Fauna BC: Electronic Atlas of the Wildlife of British Columbia. http://linnet.geog.ubc.ca/efauna/Atlas/Atlas.aspx?sciname=Nucella%20lamellosa&ilifeform=184 
+
+Crowles, D. (2004). Calliostoma ligatum. Invertebrates of the Salish Sea. Walla Walla University. https://inverts.wallawalla.edu/Mollusca/Gastropoda/Prosobranchia/Order_Archaegastropoda/Suborder_Trochina/Trochidae/Calliostoma_ligatum.html 
+
+E-Fauna BC Atlas Page. (2021). *E-Fauna BC. Nucella ostrina* (Gould, 1852) Dog Whelk; Dog Winkle. http://linnet.geog.ubc.ca/efauna/Atlas/Atlas.aspx?sciname=Nucella%20ostrina 
+
+Erlandson, J. M., Ainis, A. F., Braje, T. J., Jew, N. P., McVey, M., Rick, T. C., Vellanoweth, R. L., & Watts, J. (2015). 12,000 Years of Human Predation on Black Turban Snails (Chlorostoma funebralis) on Alta California's Northern Channel Islands. California Archaeology, 7(1), 59–91. https://doi.org/10.1179/1947461X15Z.00000000056
+
+Fretwell, K., & Starzomski, B. (2013). *Black turban snail, Tegula funebralis. Biodiversity of the Central Coast*. https://www.centralcoastbiodiversity.org/black-turban-snail-bull-tegula-funebralis.html
+
+Harbo, R. M. (2011). Whelks to Whales: Coastal Marine Life of the Pacific Northwest (Revised Second ed.). Harbour Publishing. Turban Snails, Topsnails, 131.
+
+Harbo, R. M. (2011). Whelks to Whales: Coastal Marine Life of the Pacific Northwest (Revised Second ed.). Harbour Publishing, BC. Whelks, Dogwinkles: 144-145.
+
+Hiebert, T. C., Butler, B. A., & Shanks, A. L. (1979). Tegula funebralis in Oregon Estuarine Invertebrates: Rudys’ Illustrated Guide to 140 Common Species (No. 3). University of Oregon Libraries and Oregon Institute of Marine Biology. https://oimb.uoregon.edu/wp-content/uploads/2019/03/T_funebralis_2018.pdf
+
+Hoffman, D. L. (1980). Defensive Responses of Marine Gastropods (Prosobranchia, Trochidae) to Certain Predatory Seastars and the Dire Whelk, Searlesia dira (Reeve). Pacific Science, 34(3), 233-243.
+
+Holyoak, A.R. (1988). Spawning and larval development of the trochid gastropod Calliostoma ligatum. The Veliger, 30(4), 369-371
+
+Lloyd, M. J., & Gosselin, L. A. (2007). Role of Maternal Provisioning in Controlling Interpopulation Variation in Hatching Size in the Marine Snail Nucella ostrina. The Biological Bulletin, 213(3), 316–324. https://doi.org/10.2307/25066649
+
+Meschkat, C., Fretwell, K., & Brian Starzomski, B. (2014). *Northern striped dogwinkle • Nucella ostrina. Biodiversity of the Central Coast*. https://www.centralcoastbiodiversity.org/northern-striped-dogwinkle-bull-nucella-ostrina.html
+
+Meschkat, C., Fretwell, K., & Starzomski, B. (2013). *Blue topsnail, Western ridged top shell. Calliostoma ligatum. Biodiversity of the Central Coast*. https://www.centralcoastbiodiversity.org/blue-topsnail-bull-calliostoma-ligatum.html
+
+Proudfoot, B, &  Fretwell, K. (2015). *Frilled Dogwinkle, Wrinkled Dogwinkle • Nucella Lamellosa. Biodiversity of the Central Coast*. https://www.centralcoastbiodiversity.org/frilled-dogwinkle-bull-nucella-lamellosa.html. 
+
+Tuskes, P. M. (2019). Calliostomatidae of the northeast Pacific. Zoosymposia, 13, 83-96. http://dx.doi.org/10.11646/zoosymposia.13.1.9 
+
+
+
+
+
+
