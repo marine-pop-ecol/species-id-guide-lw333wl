@@ -1,0 +1,50 @@
+---
+title: "Species ID Guide Template - Snails"
+author: "Lucy Wall"
+date: "10/17/2021"
+output:
+    pdf_document:
+        includes:
+            in_header: file.tex
+---
+# *Nucella ostrina* (Northern Striped Dogwinkle)
+
+## Description
+
+This whelk is distinguished by its alternating lines of thick and thin bands on its shell. Additionally, it can be identified by the three indistinct whorls on its shell. Colors can range from dark browns, blacks, and browns to light greys and oranges always with a purple interior (Meschkat et al., 2014). This snail typically lives in the mid to high intertidal zones of exposed rocky shorelines from the Bering Sea to Southern California. The end of its shell known as the umbilicus is closed. It is most commonly found along barnacle and mussel beds as this is their preferred diet. This species feeds by drilling a hole with its radula mouthpart into its prey and extracting digestive enzymes which are then extracted by its long proboscis (*E-Fauna BC Atlas Page*, 2021).  *N. ostrina* is commonly mistaken for the northern channeled dog winkle (*Nucella canaliculata*) as well as the proposed northern lined dog winkle (*Nucella analoga*). Both of these species can be distinguished from *N.ostrina* because of their slender distinctive whorls and smaller body sizes. To reproduce, females deposit leathery embryonic capsules attached by stalks to the rock from which the eggs develop and hatch as juveniles after about 2.5-4 months (Lloyd & Gosselin, 2007). Therefore, there is no larval feeding stage and maternal care is critical to the survival of the offspring. Each capsule will produce about 20 juveniles.
+
+## Questions
+
+1) Does this snail have a banding pattern that alternates between thick and thin stripes?
+
+2) Does this snail have three indistinct whorls?
+
+3) Is the inside of the shell purple? 
+
+\newpage
+
+## Figures
+
+```{r speicies-id-guide-snail, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 1. Showing *Nucella ostrina* distinctive features such as closed umbilicus, indistinct whorls, purple interior shell and operculum. ", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "Northern-Dogwinkle-Drawing.JPG"))
+```
+
+```{r speicies-id-guide-snails, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 2. Showing *Nucella ostrina* collected from Scotts Bay of Bamfield, BC, Canada in October of 2021.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "Northern Striped Dogwinkle Picture.jpg"))
+```
+\newpage
+
+# *Nucella lamellosa* (Frilled/Wrinkled Dogwinkle)
+
+## Description
+
+*Nucella lamellosa’s* shell can have very variable characteristics, such as color and texture. Typically in solid colours, they can be light brown, grey, to white, but can also have banding patterns (Harbo, 2011). Some have even been observed in orange and purple colouring with coloured bands. Their ‘frilled’ name comes from their lamella, which look like wrinkles or ruffles in the whelk’s shell. A shell can have up to 12 lamellae (Proudfoot & Fretwell, 2015). Presence or absence of frills in this species has been observed to vary with both wave and predator (*Cancer productus*) exposure. Typically, wave exposed snails have smooth shells. Their shells are not ‘polished’ looking and are spirally coiled with 5-7 whorls (Bering et al. 2017). Overall, shell shape is elongated into a point and can reach up to 80mm in height (Proudfoot & Fretwell, 2015). The shell mouth opening is ovate and the lip of the shell is smooth and rounded with white coloring (or outside shell colour) on the inside (Bering et al. 2017). Its operculum is strongly spiraled and usually big enough to fully close the snail’s shell mouth opening, and it has a closed umbilicus (Bering et al. 2017). Color, texture, thickness, coloured banding, and sometimes shape can vary widely for this species (Proudfoot & Fretwell, 2015). As there are 4 Nucella species in BC, this snail is commonly mistaken for its relatives. Greyish or white *N. lamellosa* can look a lot like *Nucella canaliculata*, however *N. canaliculata* is typically more streamlined in shape and doesn't have any frills on its shell (Proudfoot & Fretwell, 2015). 
+*N. lamellosa’s* range extends from Alaska (Aleutian Islands) to California (central) (Proudfoot & Fretwell, 2015; Harbo, 2011). This range suggests Frilled Dogwinkles can live in a breadth of conditions, but distributions suggest preference for cold temperate waters (Bering et al. 2017). In terms of habitat preferences, these snails inhabit the rocky intertidal, specifically mid to low zones but can be in shallow subtidal locations as well (Proudfoot & Fretwell, 2015; Harbo, 2011). The Frilled Dogwinkle inhabits rocky crevices, rock faces, as well as barnacle and mussel beds. Frilled Dogwinkles are predatory and feed on mussels and acorn barnacles (among other mollusks) by drilling into them with their radula and using a siphon that penetrates the prey’s shell to feed on internal tissues (Carefoot, 2021). Mating occurs in winter and spring. Sexually mature (>4yrs old) snails aggregate to breed with a group at their original hatching site (Bering et al. 2017). Females spawn eggs after 20 months and baby snails hatch from them after 140 days. Eggs are contained in capsules that protect them from factors such as salinity stress. Eggs (“sea oats”) are pale yellow and shaped like ~10mm vases, they can be observed on rocks in clusters (Bering et al. 2017). 
+
+## Questions
+
+1) Does the snail have 5-7 whorls, with the last whorl being the largest by far?
+
+2) Does it have an oval aperture that is around half the length of the shell?
+
+3) Is the lip thick, rounded, and smooth, with white or the shell’s outer color showing through?
